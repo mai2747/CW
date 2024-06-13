@@ -1,0 +1,10 @@
+Guest,20000
+Guest,10000
+Guest,8000
+aaa,5070
+Guest,5000
+,3370
+ll,2900
+aa,2040
+Guest,2000
+aaa,1030
